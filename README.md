@@ -1,1 +1,1 @@
-# sso-proto v0.0.1
+# sso-proto v0.0.2
