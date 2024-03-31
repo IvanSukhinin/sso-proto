@@ -1,4 +1,4 @@
-module sso-proto
+module github.com/IvanSukhinin/sso-proto
 
 go 1.22.1
 
